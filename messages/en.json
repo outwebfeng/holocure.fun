@@ -1,0 +1,188 @@
+{
+  "Common": {
+    "loading": "loading..."
+  },
+  "Metadata": {
+    "home": {
+      "title": "HoloCure – Save the Fans!",
+      "description": "HoloCure – Save the Fans! A free fan-made roguelike featuring Hololive VTubers. Play, upgrade, and survive endless waves of enemies. Join the fun now!",
+      "keywords": "HoloCure, Hololive, roguelike, game, VTuber, fan game"
+    }
+  },
+  "Navigation": {
+    "title": "HoloCure – Save the Fans!",
+    "logoAlt": "HoloCure Logo",
+    "logoTitle": "HoloCure",
+    "playNow": "Play Now",
+    "download": "Download",
+    "features": "Features",
+    "introduction": "How to Play",
+    "testimonials": "Reviews",
+    "faq": "FAQ",
+    "toggleMenu": "Toggle menu"
+  },
+  "NotFound": {
+    "title": "404 Not Found",
+    "goHome": "go home"
+  },
+  "Home": {
+    "hero": {
+      "title": "HoloCure",
+      "subtitle": "Save the Fans!",
+      "description": "Join the adventure in this fan-made Hololive game",
+      "playNow": "Play Now"
+    },
+    "download": {
+      "title": "Download",
+      "description": "Choose your preferred platform to download HoloCure",
+      "steam": "Download on Steam",
+      "itch": "Download on itch.io"
+    },
+    "introduction": {
+      "title": "How to Play",
+      "description": "Master the basics and become a pro!",
+      "steps": [
+        {
+          "title": "Choose Your VTuber",
+          "description": "Select from a roster of beloved Hololive VTubers, each with unique abilities and playstyles."
+        },
+        {
+          "title": "Fight & Survive",
+          "description": "Battle waves of enemies, collect experience, and power up with various weapons and items."
+        },
+        {
+          "title": "Level Up",
+          "description": "Gain experience and unlock new abilities to become stronger with each run."
+        }
+      ]
+    },
+    "features": {
+      "title": "Game Features",
+      "description": "Discover what makes HoloCure special",
+      "list": [
+        {
+          "title": "Multiple Characters",
+          "description": "Play as different Hololive VTubers with unique abilities"
+        },
+        {
+          "title": "Roguelike Elements",
+          "description": "Each run is different with random power-ups and enemy patterns"
+        },
+        {
+          "title": "Progression System",
+          "description": "Unlock new characters and abilities as you play"
+        }
+      ]
+    },
+    "testimonials": {
+      "title": "Player Reviews",
+      "description": "See what fans are saying about HoloCure",
+      "list": [
+        {
+          "content": "The perfect blend of roguelike gameplay and Hololive charm!",
+          "author": "VTuber Fan"
+        },
+        {
+          "content": "Addictive gameplay that keeps me coming back for more!",
+          "author": "Roguelike Enthusiast"
+        },
+        {
+          "content": "Amazing how each character feels unique and fun to play!",
+          "author": "Gaming Community"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "description": "Got questions? We've got answers!",
+      "list": [
+        {
+          "question": "Why is HoloCure free?",
+          "answer": "HoloCure is a fan-made project created out of love for Hololive VTubers and the community surrounding them. The game is entirely free to play with no ads or microtransactions, allowing fans to enjoy it without any barriers."
+        },
+        {
+          "question": "Who made HoloCure?",
+          "answer": "HoloCure was developed by Kay Yu, an independent animator and developer passionate about Hololive. The game takes inspiration from popular titles like Vampire Survivors and Magic Survival to craft a unique experience."
+        },
+        {
+          "question": "How many playable characters are in HoloCure?",
+          "answer": "As of the latest update, HoloCure features 47 playable characters, each with their own unique abilities and skills. These characters represent multiple Hololive generations and branches, offering diverse playstyles."
+        },
+        {
+          "question": "What is the best character in HoloCure?",
+          "answer": "The best character in HoloCure depends entirely on your playstyle and preferences. Since every character has unique skills and weapons, experimenting with different characters is essential to find your favorite."
+        },
+        {
+          "question": "What language is HoloCure written in?",
+          "answer": "HoloCure is written in GameMaker Studio, a versatile and widely-used game development engine. This choice allows for smooth performance and efficient development of the game."
+        },
+        {
+          "question": "What language does HoloCure support?",
+          "answer": "HoloCure currently supports English and Japanese for its interface and gameplay. The developers may add support for additional languages in future updates."
+        },
+        {
+          "question": "Is HoloCure multiplayer?",
+          "answer": "No, HoloCure is currently a single-player game that focuses on individual experiences. There is no multiplayer or co-op mode available at this time."
+        },
+        {
+          "question": "How do I unlock new characters in HoloCure?",
+          "answer": "You can unlock new characters through the in-game gacha system using coins earned during gameplay. The more you play, the more opportunities you have to expand your roster of characters."
+        },
+        {
+          "question": "Can I stream HoloCure gameplay?",
+          "answer": "Absolutely! Streaming HoloCure is encouraged, and many Hololive VTubers and fans already share their gameplay on platforms like YouTube and Twitch. It's a great way to engage with the community."
+        },
+        {
+          "question": "Is HoloCure available on Mac?",
+          "answer": "Currently, HoloCure is designed for Windows PC only, and no official Mac version has been confirmed. However, some players may use third-party tools to run it on Mac at their own risk."
+        },
+        {
+          "question": "Does HoloCure have achievements?",
+          "answer": "Yes, HoloCure features in-game achievements that add extra challenges and rewards for players. They allow you to track your progress and enjoy additional goals beyond regular gameplay."
+        },
+        {
+          "question": "What are the system requirements for HoloCure?",
+          "answer": "HoloCure requires a Windows PC with at least 4GB of RAM and a dual-core processor. It is a lightweight game and demands minimal storage space, making it accessible to most PCs."
+        }
+      ]
+    }
+  },
+  "Footer": {
+    "title": "HoloCure",
+    "subTitle": "Save the Fans!",
+    "support": "Support",
+    "privacy": "Privacy Policy",
+    "termsConditions": "Terms & Conditions"
+  },
+  "FooterNavigation": {
+    "privacyPolicy": {
+      "1-h1": "Privacy Policy for HoloCure",
+      "1-p": "HoloCure operates the website https://holocure.fun and is committed to protecting your privacy. This privacy policy outlines how we handle information when you use our online game.",
+      "2-h2": "Information Collection",
+      "2-h3-1": "Personal Data",
+      "2-p-1": "We do not collect any personal identification information from users. Our service is designed to be used without requiring personal data.",
+      "2-h3-2": "Non-Personal Data",
+      "2-p-3": "We collect non-personal data through web cookies, including usage statistics and preferences, to improve our service and user experience. This may include your display settings and customization preferences.",
+      "3-h2": "Data Usage",
+      "3-p": "Any collected non-personal data is used solely to enhance the functionality of our game and improve user experience. We do not share any data with third parties.",
+      "4-h2": "Updates to This Privacy Policy",
+      "6-h2": "Contact Us",
+      "6-p": "If you have any questions about this Privacy Policy, please contact us at support@holocure.fun."
+    },
+    "termsConditions": {
+      "1-h1": "Terms of Service for HoloCure",
+      "1-p": "Welcome to HoloCure. By accessing our website (https://holocure.fun), you agree to these Terms of Service. Our service provides an online game for creating digital signage.",
+      "2-h2": "1. Ownership",
+      "2-p": "All content on the Website, including the game, design elements, and related materials, is the intellectual property of HoloCure unless otherwise stated. The text content created by users remains their property.",
+      "3-h2": "2. Usage Guidelines",
+      "3-p": "Our service is provided for creating digital signage. Users are responsible for the content they create and should not use the service for any illegal or harmful purposes.",
+      "4-h2": "3. Governing Law",
+      "4-p": "These Terms shall be governed by applicable laws, without regard to conflicts of law principles.",
+      "5-h2": "4. Changes to Terms",
+      "5-p": "HoloCure reserves the right to modify these Terms at any time. Changes will be effective immediately upon posting to the website. Your continued use of the service constitutes acceptance of any changes.",
+      "6-h2": "5. Contact Information",
+      "6-p": "If you have any questions about these Terms, please contact us at support@holocure.fun  .",
+      "last-p": "By using HoloCure, you acknowledge that you have read and agree to these Terms of Service."
+    }
+  }
+}

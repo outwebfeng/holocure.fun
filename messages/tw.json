@@ -1,0 +1,207 @@
+{
+  "Common": {
+    "loading": "載入中..."
+  },
+  "Metadata": {
+    "home": {
+      "title": "HoloCure – 拯救粉絲！",
+      "description": "HoloCure – 拯救粉絲！一款免費的同人 Roguelike 遊戲，特色是 Hololive VTuber。遊玩、升級，並在無盡的敵潮中生存。立即加入樂趣！",
+      "keywords": "HoloCure, Hololive, roguelike, 遊戲, VTuber, 同人遊戲"
+    }
+  },
+  "Navigation": {
+    "title": "HoloCure – 拯救粉絲！",
+    "logoAlt": "HoloCure 標誌",
+    "logoTitle": "HoloCure",
+    "playNow": "立即遊玩",
+    "download": "下載",
+    "features": "特色",
+    "introduction": "如何遊玩",
+    "testimonials": "玩家評價",
+    "faq": "常見問題",
+    "toggleMenu": "切換選單",
+    "about": "關於",
+    "characters": "角色",
+    "home": "首頁",
+    "news": "新聞"
+  },
+  "NotFound": {
+    "title": "404 找不到頁面",
+    "goHome": "返回首頁"
+  },
+  "Home": {
+    "hero": {
+      "title": "HoloCure",
+      "subtitle": "拯救粉絲！",
+      "description": "加入這款 Hololive 同人遊戲的冒險旅程",
+      "playNow": "立即遊玩"
+    },
+    "download": {
+      "title": "下載",
+      "description": "選擇您喜歡的平台來下載 HoloCure",
+      "steam": "在 Steam 上下載",
+      "itch": "在 itch.io 上下載",
+      "platforms": {
+        "steam": {
+          "button": "在 Steam 上遊玩",
+          "description": "透過 Steam 平台遊玩 HoloCure"
+        },
+        "itch": {
+          "button": "在 itch.io 上遊玩",
+          "description": "透過 itch.io 平台遊玩 HoloCure"
+        }
+      }
+    },
+    "introduction": {
+      "title": "如何遊玩",
+      "description": "掌握基礎並成為高手！",
+      "steps": [
+        {
+          "title": "選擇您的 VTuber",
+          "description": "從 Hololive 的多位 VTuber 中選擇，每位角色都有獨特的能力與玩法風格。"
+        },
+        {
+          "title": "戰鬥並生存",
+          "description": "對抗敵人浪潮，收集經驗值，並透過多種武器與道具提升實力。"
+        },
+        {
+          "title": "升級",
+          "description": "獲取經驗值並解鎖新能力，每次遊玩都變得更強。"
+        }
+      ]
+    },
+    "features": {
+      "title": "遊戲特色",
+      "description": "探索 HoloCure 的獨特魅力",
+      "list": [
+        {
+          "title": "多樣角色",
+          "description": "扮演不同的 Hololive VTuber，每位都有獨特的能力"
+        },
+        {
+          "title": "Roguelike 元素",
+          "description": "每次遊玩都截然不同，擁有隨機的強化和敵人模式"
+        },
+        {
+          "title": "進度系統",
+          "description": "隨著遊玩解鎖新角色和能力"
+        }
+      ]
+    },
+    "testimonials": {
+      "title": "玩家評價",
+      "description": "看看粉絲們對 HoloCure 的評價",
+      "list": [
+        {
+          "content": "完美結合 Roguelike 遊戲和 Hololive 魅力！",
+          "author": "VTuber 粉絲"
+        },
+        {
+          "content": "令人上癮的遊戲玩法讓我一次又一次地回來！",
+          "author": "Roguelike 愛好者"
+        },
+        {
+          "content": "令人驚艷的是每個角色都感覺獨特且有趣！",
+          "author": "遊戲社群"
+        }
+      ]
+    },
+    "faq": {
+      "title": "常見問題",
+      "description": "有疑問嗎？我們有答案！",
+      "list": [
+        {
+          "question": "為什麼 HoloCure 是免費的？",
+          "answer": "HoloCure 是一個基於對 Hololive VTuber 和社群熱愛而創作的同人遊戲。該遊戲完全免費，無廣告或內購，讓粉絲可以毫無障礙地享受樂趣。"
+        },
+        {
+          "question": "誰創作了 HoloCure？",
+          "answer": "HoloCure 是由 Kay Yu 開發的，他是一位熱衷於 Hololive 的獨立動畫師和開發者。該遊戲靈感來自 Vampire Survivors 和 Magic Survival 等熱門遊戲。"
+        },
+        {
+          "question": "HoloCure 中有多少可玩角色？",
+          "answer": "截至最新更新，HoloCure 包含 47 位可玩角色，每位都有獨特的能力和技能。這些角色來自 Hololive 的多個世代和分支，提供多樣的玩法風格。"
+        },
+        {
+          "question": "HoloCure 最好的角色是誰？",
+          "answer": "HoloCure 中最好的角色完全取決於您的遊玩風格和喜好。由於每個角色都有獨特的技能和武器，嘗試不同角色是發現最愛的關鍵。"
+        },
+        {
+          "question": "HoloCure 是用什麼語言編寫的？",
+          "answer": "HoloCure 是使用 GameMaker Studio 編寫的，這是一款多功能且廣受歡迎的遊戲開發引擎。"
+        },
+        {
+          "question": "HoloCure 支援哪些語言？",
+          "answer": "HoloCure 目前支援英文和日文。開發者可能會在未來更新中增加對更多語言的支援。"
+        },
+        {
+          "question": "HoloCure 是否有多人遊戲模式？",
+          "answer": "目前，HoloCure 是一款專注於單人體驗的遊戲。遊戲暫無多人或合作模式。"
+        },
+        {
+          "question": "如何在 HoloCure 中解鎖新角色？",
+          "answer": "您可以通過遊戲中的轉蛋系統使用遊玩中獲得的金幣解鎖新角色。遊玩越多，擴充角色名單的機會就越多。"
+        },
+        {
+          "question": "我可以直播 HoloCure 的遊戲過程嗎？",
+          "answer": "當然可以！HoloCure 鼓勵直播，許多 Hololive VTuber 和粉絲已經在 YouTube 和 Twitch 等平台分享他們的遊戲過程。"
+        },
+        {
+          "question": "HoloCure 是否可以在 Mac 上運行？",
+          "answer": "目前，HoloCure 僅設計供 Windows PC 使用，尚未確認官方 Mac 版本。然而，一些玩家可能會使用第三方工具在 Mac 上運行該遊戲，但需自行承擔風險。"
+        },
+        {
+          "question": "HoloCure 是否有成就系統？",
+          "answer": "是的，HoloCure 包含遊戲內成就，為玩家提供額外挑戰和獎勵。成就系統讓您可以跟蹤自己的進度，享受常規遊玩之外的額外目標。"
+        },
+        {
+          "question": "HoloCure 的系統需求是什麼？",
+          "answer": "HoloCure 需要一台至少具備 4GB 記憶體和雙核心處理器的 Windows PC。該遊戲體積輕巧，需求極低的存儲空間，大部分 PC 都可以輕鬆運行。"
+        }
+      ]
+    }
+  },
+  "Footer": {
+    "title": "HoloCure",
+    "subTitle": "拯救粉絲！",
+    "support": "支援",
+    "privacy": "隱私政策",
+    "termsConditions": "服務條款"
+  },
+  "FooterNavigation": {
+    "privacyPolicy": {
+      "1-h1": "HoloCure 隱私權政策",
+      "1-p": "HoloCure 營運網站 https://holocure.fun 並致力於保護您的隱私。本隱私權政策說明我們在您使用我們的線上遊戲時如何處理資訊。",
+      "2-h2": "資訊收集",
+      "2-h3-1": "個人資料",
+      "2-p-1": "我們不會收集使用者的任何個人識別資訊。我們的服務設計為無需個人資料即可使用。",
+      "2-h3-2": "非個人資料",
+      "2-p-3": "我們通過網路 cookie 收集非個人資料，包括使用統計和偏好設定，以改善我們的服務和使用者體驗。這可能包括您的顯示設定和自訂偏好。",
+      "3-h2": "資料使用",
+      "3-p": "收集的任何非個人資料僅用於增強我們遊戲的功能和改善使用者體驗。我們不會與第三方共享任何資料。",
+      "4-h2": "本隱私權政策的更新",
+      "6-h2": "聯絡我們",
+      "6-p": "如果您對本隱私權政策有任何問題，請聯絡我們：support@holocure.fun"
+    },
+    "termsConditions": {
+      "1-h1": "HoloCure 服務條款",
+      "1-p": "歡迎使用 HoloCure。透過存取我們的網站（https://holocure.fun），您同意這些服務條款。我們的服務提供用於創建數位看板的線上遊戲。",
+      "2-h2": "1. 所有權",
+      "2-p": "除非另有說明，網站上的所有內容，包括遊戲、設計元素和相關材料，均為 HoloCure 的智慧財產。使用者創建的文字內容仍為其財產。",
+      "3-h2": "2. 使用指南",
+      "3-p": "我們的服務提供用於創建數位看板。使用者對其創建的內容負責，不得將服務用於任何非法或有害目的。",
+      "4-h2": "3. 適用法律",
+      "4-p": "這些條款應受適用法律管轄，不考慮法律衝突原則。",
+      "5-h2": "4. 條款變更",
+      "5-p": "HoloCure 保留隨時修改這些條款的權利。變更將在發布到網站後立即生效。您繼續使用服務即表示接受任何變更。",
+      "6-h2": "5. 聯絡資訊",
+      "6-p": "如果您對這些條款有任何問題，請聯絡我們：support@holocure.fun",
+      "last-p": "使用 HoloCure 即表示您確認已閱讀並同意這些服務條款。"
+    }
+  },
+  "Index": {
+    "description": "HoloCure - 拯救粉絲！是一款以 hololive VTuber 為主題的免費同人遊戲。在這款動作角色扮演遊戲中，您將扮演您最喜愛的 VTuber，對抗成群的粉絲，收集經驗值並變得更強！",
+    "keywords": "HoloCure, hololive, 遊戲, 同人遊戲, VTuber, 動作遊戲, 角色扮演遊戲",
+    "title": "HoloCure - 拯救粉絲！"
+  }
+}

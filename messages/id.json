@@ -1,0 +1,188 @@
+{
+  "Common": {
+    "loading": "memuat..."
+  },
+  "Metadata": {
+    "home": {
+      "title": "HoloCure – Selamatkan Penggemar!",
+      "description": "HoloCure – Selamatkan Penggemar! Sebuah game roguelike buatan penggemar yang gratis dan menampilkan VTuber Hololive. Mainkan, tingkatkan, dan bertahan dari gelombang musuh tanpa akhir. Bergabunglah sekarang!",
+      "keywords": "HoloCure, Hololive, roguelike, game, VTuber, fan game"
+    }
+  },
+  "Navigation": {
+    "title": "HoloCure – Selamatkan Penggemar!",
+    "logoAlt": "Logo HoloCure",
+    "logoTitle": "HoloCure",
+    "playNow": "Mainkan Sekarang",
+    "download": "Unduh",
+    "features": "Fitur",
+    "introduction": "Cara Bermain",
+    "testimonials": "Ulasan",
+    "faq": "FAQ",
+    "toggleMenu": "Alihkan Menu"
+  },
+  "NotFound": {
+    "title": "404 Tidak Ditemukan",
+    "goHome": "Kembali ke Beranda"
+  },
+  "Home": {
+    "hero": {
+      "title": "HoloCure",
+      "subtitle": "Selamatkan Penggemar!",
+      "description": "Bergabunglah dalam petualangan di game buatan penggemar Hololive ini",
+      "playNow": "Mainkan Sekarang"
+    },
+    "download": {
+      "title": "Unduh",
+      "description": "Pilih platform pilihan Anda untuk mengunduh HoloCure",
+      "steam": "Unduh di Steam",
+      "itch": "Unduh di itch.io"
+    },
+    "introduction": {
+      "title": "Cara Bermain",
+      "description": "Kuasai dasar-dasarnya dan jadilah ahli!",
+      "steps": [
+        {
+          "title": "Pilih VTuber Anda",
+          "description": "Pilih dari daftar VTuber Hololive yang disukai, masing-masing dengan kemampuan dan gaya bermain yang unik."
+        },
+        {
+          "title": "Bertarung & Bertahan",
+          "description": "Lawan gelombang musuh, kumpulkan pengalaman, dan tingkatkan kekuatan dengan berbagai senjata dan item."
+        },
+        {
+          "title": "Naik Level",
+          "description": "Dapatkan pengalaman dan buka kemampuan baru untuk menjadi lebih kuat di setiap permainan."
+        }
+      ]
+    },
+    "features": {
+      "title": "Fitur Game",
+      "description": "Temukan apa yang membuat HoloCure spesial",
+      "list": [
+        {
+          "title": "Beragam Karakter",
+          "description": "Mainkan sebagai berbagai VTuber Hololive dengan kemampuan unik"
+        },
+        {
+          "title": "Elemen Roguelike",
+          "description": "Setiap permainan berbeda dengan penguatan acak dan pola musuh"
+        },
+        {
+          "title": "Sistem Progres",
+          "description": "Buka karakter dan kemampuan baru saat Anda bermain"
+        }
+      ]
+    },
+    "testimonials": {
+      "title": "Ulasan Pemain",
+      "description": "Lihat apa yang dikatakan penggemar tentang HoloCure",
+      "list": [
+        {
+          "content": "Kombinasi sempurna antara gameplay roguelike dan pesona Hololive!",
+          "author": "Penggemar VTuber"
+        },
+        {
+          "content": "Gameplay yang adiktif membuat saya terus ingin bermain lagi!",
+          "author": "Penggemar Roguelike"
+        },
+        {
+          "content": "Menakjubkan bagaimana setiap karakter terasa unik dan menyenangkan untuk dimainkan!",
+          "author": "Komunitas Gaming"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Pertanyaan yang Sering Diajukan",
+      "description": "Punya pertanyaan? Kami punya jawabannya!",
+      "list": [
+        {
+          "question": "Mengapa HoloCure gratis?",
+          "answer": "HoloCure adalah proyek buatan penggemar yang dibuat dari rasa cinta terhadap VTuber Hololive dan komunitasnya. Game ini sepenuhnya gratis tanpa iklan atau pembelian dalam aplikasi, memungkinkan penggemar untuk menikmatinya tanpa hambatan."
+        },
+        {
+          "question": "Siapa yang membuat HoloCure?",
+          "answer": "HoloCure dikembangkan oleh Kay Yu, seorang animator dan pengembang independen yang sangat mencintai Hololive. Game ini terinspirasi oleh judul populer seperti Vampire Survivors dan Magic Survival."
+        },
+        {
+          "question": "Berapa banyak karakter yang dapat dimainkan di HoloCure?",
+          "answer": "Pada pembaruan terbaru, HoloCure menampilkan 47 karakter yang dapat dimainkan, masing-masing dengan kemampuan dan keterampilan unik mereka sendiri. Karakter-karakter ini berasal dari berbagai generasi dan cabang Hololive, menawarkan berbagai gaya bermain."
+        },
+        {
+          "question": "Siapa karakter terbaik di HoloCure?",
+          "answer": "Karakter terbaik di HoloCure sepenuhnya tergantung pada gaya bermain dan preferensi Anda. Karena setiap karakter memiliki keterampilan dan senjata unik, mencoba berbagai karakter adalah kunci untuk menemukan favorit Anda."
+        },
+        {
+          "question": "HoloCure ditulis dalam bahasa apa?",
+          "answer": "HoloCure ditulis menggunakan GameMaker Studio, sebuah mesin pengembangan game yang serbaguna dan banyak digunakan."
+        },
+        {
+          "question": "HoloCure mendukung bahasa apa saja?",
+          "answer": "HoloCure saat ini mendukung bahasa Inggris dan Jepang. Pengembang mungkin akan menambahkan dukungan untuk lebih banyak bahasa di pembaruan mendatang."
+        },
+        {
+          "question": "Apakah HoloCure mendukung multiplayer?",
+          "answer": "Tidak, HoloCure saat ini adalah game single-player yang berfokus pada pengalaman individu. Tidak ada mode multiplayer atau co-op yang tersedia saat ini."
+        },
+        {
+          "question": "Bagaimana cara membuka karakter baru di HoloCure?",
+          "answer": "Anda dapat membuka karakter baru melalui sistem gacha dalam game dengan menggunakan koin yang diperoleh selama permainan. Semakin sering Anda bermain, semakin banyak peluang untuk memperluas daftar karakter Anda."
+        },
+        {
+          "question": "Bisakah saya streaming gameplay HoloCure?",
+          "answer": "Tentu saja! Streaming HoloCure sangat dianjurkan, dan banyak VTuber Hololive serta penggemar yang sudah berbagi gameplay mereka di platform seperti YouTube dan Twitch. Ini cara yang bagus untuk berinteraksi dengan komunitas."
+        },
+        {
+          "question": "Apakah HoloCure tersedia di Mac?",
+          "answer": "Saat ini, HoloCure dirancang hanya untuk Windows PC, dan versi resmi Mac belum dikonfirmasi. Namun, beberapa pemain mungkin menggunakan alat pihak ketiga untuk menjalankannya di Mac dengan risiko mereka sendiri."
+        },
+        {
+          "question": "Apakah HoloCure memiliki pencapaian?",
+          "answer": "Ya, HoloCure memiliki pencapaian dalam game yang menambahkan tantangan tambahan dan hadiah untuk pemain. Ini memungkinkan Anda untuk melacak kemajuan Anda dan menikmati tujuan tambahan di luar gameplay biasa."
+        },
+        {
+          "question": "Apa persyaratan sistem untuk HoloCure?",
+          "answer": "HoloCure membutuhkan Windows PC dengan setidaknya RAM 4GB dan prosesor dual-core. Game ini ringan dan membutuhkan ruang penyimpanan minimal, sehingga dapat dengan mudah dijalankan di sebagian besar PC."
+        }
+      ]
+    }
+  },
+  "Footer": {
+    "title": "HoloCure",
+    "subTitle": "Selamatkan Penggemar!",
+    "support": "Dukungan",
+    "privacy": "Kebijakan Privasi",
+    "termsConditions": "Syarat & Ketentuan"
+  },
+  "FooterNavigation": {
+    "privacyPolicy": {
+      "1-h1": "Kebijakan Privasi HoloCure",
+      "1-p": "HoloCure mengoperasikan situs web https://holocure.fun dan berkomitmen untuk melindungi privasi Anda. Kebijakan privasi ini menguraikan bagaimana kami menangani informasi saat Anda menggunakan game online kami.",
+      "2-h2": "Pengumpulan Informasi",
+      "2-h3-1": "Data Pribadi",
+      "2-p-1": "Kami tidak mengumpulkan informasi identifikasi pribadi dari pengguna. Layanan kami dirancang untuk digunakan tanpa memerlukan data pribadi.",
+      "2-h3-2": "Data Non-Pribadi",
+      "2-p-3": "Kami mengumpulkan data non-pribadi melalui cookie web, termasuk statistik penggunaan dan preferensi, untuk meningkatkan layanan dan pengalaman pengguna kami. Ini mungkin termasuk pengaturan tampilan dan preferensi kustomisasi Anda.",
+      "3-h2": "Penggunaan Data",
+      "3-p": "Setiap data non-pribadi yang dikumpulkan hanya digunakan untuk meningkatkan fungsionalitas game kami dan meningkatkan pengalaman pengguna. Kami tidak membagikan data apa pun kepada pihak ketiga.",
+      "4-h2": "Pembaruan Kebijakan Privasi Ini",
+      "6-h2": "Hubungi Kami",
+      "6-p": "Jika Anda memiliki pertanyaan tentang Kebijakan Privasi ini, silakan hubungi kami di support@holocure.fun"
+    },
+    "termsConditions": {
+      "1-h1": "Ketentuan Layanan HoloCure",
+      "1-p": "Selamat datang di HoloCure. Dengan mengakses situs web kami (https://holocure.fun), Anda menyetujui Ketentuan Layanan ini. Layanan kami menyediakan game online untuk membuat papan digital.",
+      "2-h2": "1. Kepemilikan",
+      "2-p": "Semua konten di Situs Web, termasuk game, elemen desain, dan materi terkait, adalah kekayaan intelektual HoloCure kecuali dinyatakan lain. Konten teks yang dibuat oleh pengguna tetap menjadi milik mereka.",
+      "3-h2": "2. Pedoman Penggunaan",
+      "3-p": "Layanan kami disediakan untuk membuat papan digital. Pengguna bertanggung jawab atas konten yang mereka buat dan tidak boleh menggunakan layanan untuk tujuan ilegal atau berbahaya.",
+      "4-h2": "3. Hukum yang Berlaku",
+      "4-p": "Ketentuan ini akan diatur oleh hukum yang berlaku, tanpa memperhatikan prinsip-prinsip konflik hukum.",
+      "5-h2": "4. Perubahan Ketentuan",
+      "5-p": "HoloCure berhak untuk mengubah Ketentuan ini kapan saja. Perubahan akan berlaku segera setelah diposting di situs web. Penggunaan layanan Anda yang berkelanjutan merupakan penerimaan atas perubahan apa pun.",
+      "6-h2": "5. Informasi Kontak",
+      "6-p": "Jika Anda memiliki pertanyaan tentang Ketentuan ini, silakan hubungi kami di support@holocure.fun",
+      "last-p": "Dengan menggunakan HoloCure, Anda mengakui bahwa Anda telah membaca dan menyetujui Ketentuan Layanan ini."
+    }
+  }
+}
