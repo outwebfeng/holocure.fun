@@ -92,8 +92,8 @@ export default function HomeContent({ translations }: HomeContentProps) {
             <p className='mb-12 text-lg text-gray-600'>{translations.introduction.description}</p>
           </div>
           <div className='grid gap-8 md:grid-cols-3'>
-            {translations.introduction.steps.map((step, index) => (
-              <div key={index} className='rounded-lg bg-sky-50 p-6 text-center'>
+            {translations.introduction.steps.map((step) => (
+              <div key={`step-${step.title}`} className='rounded-lg bg-sky-50 p-6 text-center'>
                 <h3 className='mb-4 text-xl font-bold text-gray-900'>{step.title}</h3>
                 <p className='text-gray-600'>{step.description}</p>
               </div>
@@ -110,8 +110,8 @@ export default function HomeContent({ translations }: HomeContentProps) {
             <p className='mb-12 text-lg text-gray-600'>{translations.features.description}</p>
           </div>
           <div className='grid gap-8 md:grid-cols-3'>
-            {translations.features.list.map((feature, index) => (
-              <div key={index} className='rounded-lg bg-white p-6 shadow-lg'>
+            {translations.features.list.map((feature) => (
+              <div key={`feature-${feature.title}`} className='rounded-lg bg-white p-6 shadow-lg'>
                 <h3 className='mb-4 text-xl font-bold text-gray-900'>{feature.title}</h3>
                 <p className='text-gray-600'>{feature.description}</p>
               </div>
@@ -128,8 +128,8 @@ export default function HomeContent({ translations }: HomeContentProps) {
             <p className='mb-12 text-lg text-gray-600'>{translations.testimonials.description}</p>
           </div>
           <div className='grid gap-8 md:grid-cols-3'>
-            {translations.testimonials.list.map((testimonial, index) => (
-              <div key={index} className='rounded-lg bg-white p-6 shadow-lg'>
+            {translations.testimonials.list.map((testimonial) => (
+              <div key={`testimonial-${testimonial.author}`} className='rounded-lg bg-white p-6 shadow-lg'>
                 <p className='mb-4 text-gray-600'>{testimonial.content}</p>
                 <p className='font-semibold text-gray-900'>- {testimonial.author}</p>
               </div>
@@ -178,8 +178,8 @@ export default function HomeContent({ translations }: HomeContentProps) {
             <p className='mb-12 text-lg text-gray-600'>{translations.faq.description}</p>
           </div>
           <div className='grid gap-6 md:grid-cols-2'>
-            {translations.faq.list.map((faq, index) => (
-              <div key={index} className='rounded-lg bg-sky-50 p-6'>
+            {translations.faq.list.map((faq) => (
+              <div key={`faq-${faq.question}`} className='rounded-lg bg-sky-50 p-6'>
                 <h3 className='mb-4 text-xl font-bold text-gray-900'>{faq.question}</h3>
                 <p className='text-gray-600'>{faq.answer}</p>
               </div>
