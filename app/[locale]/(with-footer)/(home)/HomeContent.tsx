@@ -59,7 +59,7 @@ export default function HomeContent({ translations }: HomeContentProps) {
     <>
       <ScrollToTop />
       {/* Hero Section */}
-      <section id="hero" className='relative flex min-h-[80vh] items-center justify-center bg-gradient-to-b from-sky-50 to-white'>
+      <section id='hero' className='relative flex min-h-[80vh] items-center justify-center bg-gradient-to-b from-sky-50 to-white'>
         <div className='absolute inset-0'>
           <Image
             src='/images/game-cover.jpg'
@@ -85,7 +85,7 @@ export default function HomeContent({ translations }: HomeContentProps) {
       </section>
 
       {/* How to Play Section */}
-      <section id="introduction" className='bg-white py-16'>
+      <section id='introduction' className='bg-white py-16'>
         <div className='mx-auto max-w-pc px-4 sm:px-6 lg:px-8'>
           <div className='text-center'>
             <h2 className='mb-4 text-3xl font-bold text-gray-900'>{translations.introduction.title}</h2>
@@ -103,7 +103,7 @@ export default function HomeContent({ translations }: HomeContentProps) {
       </section>
 
       {/* Features Section */}
-      <section id="features" className='bg-gradient-to-b from-white to-sky-50 py-16'>
+      <section id='features' className='bg-gradient-to-b from-white to-sky-50 py-16'>
         <div className='mx-auto max-w-pc px-4 sm:px-6 lg:px-8'>
           <div className='text-center'>
             <h2 className='mb-4 text-3xl font-bold text-gray-900'>{translations.features.title}</h2>
@@ -121,7 +121,7 @@ export default function HomeContent({ translations }: HomeContentProps) {
       </section>
 
       {/* What is Section */}
-      <section id="testimonials" className='bg-sky-50 py-16'>
+      <section id='testimonials' className='bg-sky-50 py-16'>
         <div className='mx-auto max-w-pc px-4 sm:px-6 lg:px-8'>
           <div className='text-center'>
             <h2 className='mb-4 text-3xl font-bold text-gray-900'>{translations.testimonials.title}</h2>
@@ -139,30 +139,30 @@ export default function HomeContent({ translations }: HomeContentProps) {
       </section>
 
       {/* Download Section */}
-      <section id="download" className="py-24 bg-gray-50">
-        <div className="container mx-auto px-4">
-          <h2 className="text-4xl font-bold text-center mb-8">{translations.download.title}</h2>
-          <p className="text-xl text-center text-gray-600 mb-12">{translations.download.description}</p>
-          <div className="flex justify-center gap-8">
+      <section id='download' className='py-24 bg-gray-50'>
+        <div className='container mx-auto px-4'>
+          <h2 className='text-4xl font-bold text-center mb-8'>{translations.download.title}</h2>
+          <p className='text-xl text-center text-gray-600 mb-12'>{translations.download.description}</p>
+          <div className='flex justify-center gap-8'>
             <a
-              href="https://store.steampowered.com/app/2420510/HoloCure__Save_the_Fans/"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-flex items-center px-8 py-4 bg-[#171a21] text-white rounded-lg hover:bg-[#2a475e] transition-colors"
+              href='https://store.steampowered.com/app/2420510/HoloCure__Save_the_Fans/'
+              target='_blank'
+              rel='noopener noreferrer'
+              className='inline-flex items-center px-8 py-4 bg-[#171a21] text-white rounded-lg hover:bg-[#2a475e] transition-colors'
             >
-              <svg className="w-6 h-6 mr-2" viewBox="0 0 24 24" fill="currentColor">
-                <path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.6 0 12 0zM5.5 12.7c0-1.1.9-2 2-2s2 .9 2 2-.9 2-2 2-2-.9-2-2zm7.5 6.3c-2.2 0-4-1.8-4-4s1.8-4 4-4 4 1.8 4 4-1.8 4-4 4z"/>
+              <svg className='w-6 h-6 mr-2' viewBox='0 0 24 24' fill='currentColor'>
+                <path d='M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.6 0 12 0zM5.5 12.7c0-1.1.9-2 2-2s2 .9 2 2-.9 2-2 2-2-.9-2-2zm7.5 6.3c-2.2 0-4-1.8-4-4s1.8-4 4-4 4 1.8 4 4-1.8 4-4 4z'/>
               </svg>
               {translations.download.steam}
             </a>
             <a
-              href="https://kay-yu.itch.io/holocure"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-flex items-center px-8 py-4 bg-[#fa5c5c] text-white rounded-lg hover:bg-[#ff4444] transition-colors"
+              href='https://kay-yu.itch.io/holocure'
+              target='_blank'
+              rel='noopener noreferrer'
+              className='inline-flex items-center px-8 py-4 bg-[#fa5c5c] text-white rounded-lg hover:bg-[#ff4444] transition-colors'
             >
-              <svg className="w-6 h-6 mr-2" viewBox="0 0 24 24" fill="currentColor">
-                <path d="M3.13 1.338C2.08 1.96 1.5 3.42 1.5 5.5v13c0 2.08.58 3.54 1.63 4.162V1.338zm17.74 0v21.324C21.92 22.04 22.5 20.58 22.5 18.5v-13c0-2.08-.58-3.54-1.63-4.162zM5.632 3H18.368C17.268 3 16.5 3.768 16.5 4.868v14.264c0 1.1.768 1.868 1.868 1.868H5.632C6.732 21 7.5 20.232 7.5 19.132V4.868C7.5 3.768 6.732 3 5.632 3z"/>
+              <svg className='w-6 h-6 mr-2' viewBox='0 0 24 24' fill='currentColor'>
+                <path d='M3.13 1.338C2.08 1.96 1.5 3.42 1.5 5.5v13c0 2.08.58 3.54 1.63 4.162V1.338zm17.74 0v21.324C21.92 22.04 22.5 20.58 22.5 18.5v-13c0-2.08-.58-3.54-1.63-4.162zM5.632 3H18.368C17.268 3 16.5 3.768 16.5 4.868v14.264c0 1.1.768 1.868 1.868 1.868H5.632C6.732 21 7.5 20.232 7.5 19.132V4.868C7.5 3.768 6.732 3 5.632 3z'/>
               </svg>
               {translations.download.itch}
             </a>
@@ -171,7 +171,7 @@ export default function HomeContent({ translations }: HomeContentProps) {
       </section>
 
       {/* FAQ Section */}
-      <section id="faq" className='bg-white py-16'>
+      <section id='faq' className='bg-white py-16'>
         <div className='mx-auto max-w-pc px-4 sm:px-6 lg:px-8'>
           <div className='text-center'>
             <h2 className='mb-4 text-3xl font-bold text-gray-900'>{translations.faq.title}</h2>

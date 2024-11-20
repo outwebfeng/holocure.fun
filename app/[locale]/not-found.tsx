@@ -15,6 +15,7 @@ export default function NotFound() {
         <h1 className='text-sm text-black/40 sm:text-base'>{t('title')}</h1>
         <Link
           href='/'
+          prefetch={false} 
           className='flex h-9 w-full max-w-[200px] items-center justify-center rounded-full border border-white/40 px-[10px] text-xs uppercase text-black/40 hover:cursor-pointer hover:opacity-80 sm:text-sm'
         >
           {t('goHome')}

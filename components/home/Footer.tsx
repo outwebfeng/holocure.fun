@@ -14,7 +14,7 @@ function InfoLink({
   type?: string;
 }) {
   return (
-    <Link href={href} title={title} className='whitespace-nowrap text-sm hover:opacity-70' target={target} type={type}>
+    <Link prefetch={false} href={href} title={title} className='whitespace-nowrap text-sm hover:opacity-70' target={target} type={type}>
       {title}
     </Link>
   );
