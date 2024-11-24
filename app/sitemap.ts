@@ -6,7 +6,7 @@ import { BASE_URL } from '@/lib/env';
 export default function sitemap(): MetadataRoute.Sitemap {
   const sitemapRoutes: MetadataRoute.Sitemap = [
     {
-      url: '', // home
+      url: BASE_URL, // 使用完整的 URL
       lastModified: new Date(),
       changeFrequency: 'daily',
       priority: 0.9,
@@ -16,10 +16,11 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const sitemapData = sitemapRoutes.flatMap((route) =>
     locales.map((locale) => {
       const lang = locale === 'en' ? '' : `/${locale}`;
-      const routeUrl = route.url === '' ? '' : `/${route.url}`;
       return {
-        ...route,
-        url: `${BASE_URL}${lang}${routeUrl}`,
+        url: locale === 'en' ? BASE_URL : `${BASE_URL}${lang}`,
+        lastModified: route.lastModified,
+        changeFrequency: route.changeFrequency,
+        priority: route.priority,
       };
     }),
   );
